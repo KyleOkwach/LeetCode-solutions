@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
