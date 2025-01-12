@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0792-binary-search](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
