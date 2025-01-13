@@ -7,9 +7,9 @@ class Solution:
             if t not in operators:
                 num_buffer.append(t)
             else:
-                res = self.evalAB(int(num_buffer[-2]), int(num_buffer[-1]), t)
-                num_buffer.pop()
-                num_buffer.pop()
+                b = int(num_buffer.pop())
+                a = int(num_buffer.pop())
+                res = self.evalAB(a, b, t)
                 num_buffer.append(int(res))
         
         return int(num_buffer[0])
