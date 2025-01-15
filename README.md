@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 ## Binary Search
@@ -79,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
