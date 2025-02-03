@@ -106,4 +106,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
