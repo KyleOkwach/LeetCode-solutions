@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1023-time-based-key-value-store](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0125-valid-palindrome) |
+| [1023-time-based-key-value-store](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -120,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/KyleOkwach/LeetCode-solutions/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
