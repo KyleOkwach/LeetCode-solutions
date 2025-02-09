@@ -4,6 +4,8 @@
 #         self.val = val
 #         self.next = next
 
+# The fast pointer is bound to catch up with the slow pointer if the list is cyclic
+
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         slow, fast = head, head
